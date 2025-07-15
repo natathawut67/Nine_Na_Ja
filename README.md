@@ -2,5 +2,3 @@
 ลอง gitHub
 
 555555
-hello jaaaaa
-oiiou
